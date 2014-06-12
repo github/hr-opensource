@@ -1,4 +1,4 @@
-### Welcome to hr-opensource!
+## Welcome to hr-opensource!
 =============
 
 This is intended to be an open forum for anyone to discuss HR related topics and ideas. Basically, we want to do with the HR Community on GitHub what software developers have been doing on GitHub since 2008: Build great work product in a collaborative way.  
@@ -9,6 +9,6 @@ We want to share and de-mystify what HR does, as many people outside of HR don't
 
 Let's try to shake this up a bit and change the landscape of HR and how we work!
 
-:boom: :thumbs up: 
+:boom: :boom: :boom:
 
 
