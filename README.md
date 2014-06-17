@@ -11,6 +11,8 @@ We want to share and de-mystify what HR does, as many people outside of HR don't
 
 Let's try to shake this up a bit and change the landscape of HR and how we work!
 
+Participating in a basic way is easy: just click on the "Issues" link in the top right area of the page and comment, or even open a "New Issue" to start a new idea, topic, discussion, or question.
+
 :boom: :boom: :boom:
 
 
