@@ -1,3 +1,5 @@
+**NOTE:** This repository is no longer supported or updated by GitHub.*
+
 ## Welcome to hr-opensource!
 
 
